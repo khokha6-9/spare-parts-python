@@ -5,3 +5,4 @@ Learning Python step by step, applied to real data from my mobile spare-parts wh
 - `filter_parts.py`: finds faulty parts sold to a specific shop.
 - `route_parts.py`: collects parts for shops Hadi or Ali using or.
 - `count_by_type.py`: counts parts of each type using a dict.
+- `count_faulty_by_type.py`: counts faulty parts of each type using a dict.
